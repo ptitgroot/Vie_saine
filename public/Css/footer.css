@@ -1,0 +1,17 @@
+.footer{
+    background-color: darkcyan;
+    margin-top: 25px;
+}
+
+.row{
+    margin-bottom: 10px;
+}
+
+.qsn{
+    font-size: 14px;
+    padding-top: 11px;
+}
+
+a{
+    color: lightcyan;
+}
