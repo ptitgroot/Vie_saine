@@ -1,6 +1,7 @@
 .footer{
     background-color: darkcyan;
-    margin-top: 25px;
+    padding: 25px;
+    margin-top: auto;
 }
 
 .row{
@@ -15,3 +16,17 @@
 a{
     color: lightcyan;
 }
+
+p, h3{
+    text-align: center;
+}
+
+.logo{
+    text-align: center;
+}
+
+.contact{
+    text-align: center;
+    margin: 0 auto;
+}
+
