@@ -1,6 +1,6 @@
 $(function () {
     
-    $('#contact-form').on('submit', function(event){
+    $('#contact-form').on('submit', function(e){
         e.preventDefault();
         $('.comments').empty();
         var postdata = $('#contact-form').serialize();
