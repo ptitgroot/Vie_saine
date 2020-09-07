@@ -7,4 +7,5 @@
 /public/bundles/
 /var/
 /vendor/
+/public/connexion.php
 ###< symfony/framework-bundle ###
